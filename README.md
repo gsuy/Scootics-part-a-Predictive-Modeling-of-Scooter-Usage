@@ -13,8 +13,10 @@ Traffic jams in the city, as a result, many people in the city are choosing publ
 ## Model Structure
 - model 1
     ![image](img/model_pick-up_1.png)
+
 - model 2
     ![image](img/model_pick-up_2.png)
+    
 - model 3
     ![image](img/model_pick-up_3.png)
 
