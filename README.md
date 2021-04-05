@@ -31,7 +31,8 @@ evaluate predictive models with [time-based sliding window](https://www.google.c
 <br><br><br>
 
 ## Predict trip destinations
-- preprocess by [min-max normalization](https://towardsdatascience.com/everything-you-need-to-know-about-min-max-normalization-in-python-b79592732b79)
+- preprocess with [min-max normalization](https://towardsdatascience.com/everything-you-need-to-know-about-min-max-normalization-in-python-b79592732b79)
+- [API service](https://github.com/gsuy/destination-service)
 
 ## Model Structure
    ![image](img/model_destination.png)
