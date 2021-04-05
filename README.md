@@ -24,15 +24,15 @@ Traffic jams in the city, as a result, many people in the city are choosing publ
 
 
 
-## Predict trip destinations
-
+<!-- ## Predict trip destinations
+ -->
 
 
 ## Evaluate model
 - Average Distance Days of the week
 
-    ![image](img/evaluate days.png)
+![image](img/evaluate days.png)
 
 - Average Distance hours of the Day
 
-    ![image](img/evaluate hour.png)
+![image](img/evaluate hour.png)
