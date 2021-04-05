@@ -8,6 +8,7 @@ Traffic jams in the city, as a result, many people in the city are choosing publ
 
 ## Predict the next 24-hour of scooter pick-ups.
 - preprocess by z-score normalization
+
     ![](img/zscore.png)
 
 - Divide the data into four groups using a
