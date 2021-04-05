@@ -10,6 +10,13 @@ Traffic jams in the city, as a result, many people in the city are choosing publ
 - preprocess with [z-score normalization](https://en.wikipedia.org/wiki/Standard_score)
 - divide the data into 4 groups using [jenks natural breaks](https://en.wikipedia.org/wiki/Jenks_natural_breaks_optimization)
 
+## Model Structure
+- model 1
+    ![image](img/model_pick-up_1.png)
+- model 2
+    ![image](img/model_pick-up_2.png)
+- model 3
+    ![image](img/model_pick-up_3.png)
 
 ## Evaluate model
 evaluate predictive models with [time-based sliding window](https://www.google.com/search?q=time-based+sliding+window)
@@ -24,6 +31,9 @@ evaluate predictive models with [time-based sliding window](https://www.google.c
 
 ## Predict trip destinations
 - preprocess by [min-max normalization](https://towardsdatascience.com/everything-you-need-to-know-about-min-max-normalization-in-python-b79592732b79)
+
+## Model Structure
+   ![image](img/model_destination.png)
 
 ## Evaluate model
 evaluate predictive models with [10-fold cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
