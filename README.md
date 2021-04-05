@@ -6,9 +6,9 @@ Traffic jams in the city, as a result, many people in the city are choosing publ
 - predict trip destinations
 
 
-# Predict the next 24-hour of scooter pick-ups.
+## Predict the next 24-hour of scooter pick-ups.
 - preprocess by z-score normalization
-    ![](images/zscore.png)
+    ![](img/zscore.png)
 
 - Divide the data into four groups using a
 
@@ -16,16 +16,16 @@ Traffic jams in the city, as a result, many people in the city are choosing publ
 
 ## Evaluate model
 
-    ![](images/evaluate.png)
+    ![](img/evaluate.png)
 
 
 
-# Predict trip destinations
+## Predict trip destinations
 
 
 
-# Evaluate model
+## Evaluate model
 
-    ![](images/evaluate days.png)
+    ![](img/evaluate days.png)
 
-    ![](images/evaluate hour.png)
+    ![](img/evaluate hour.png)
