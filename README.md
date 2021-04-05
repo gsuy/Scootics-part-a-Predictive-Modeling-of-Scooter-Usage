@@ -7,12 +7,12 @@ Traffic jams in the city, as a result, many people in the city are choosing publ
 
 
 ## Predict the next 24-hour of scooter pick-ups.
-- preprocess by [z-score normalization](https://en.wikipedia.org/wiki/Standard_score)
+- preprocess with [z-score normalization](https://en.wikipedia.org/wiki/Standard_score)
 - divide the data into 4 groups using [jenks natural breaks](https://en.wikipedia.org/wiki/Jenks_natural_breaks_optimization)
 
 
 ## Evaluate model
-evaluate predictive models by 
+evaluate predictive models with [time-based sliding window](https://www.google.com/search?q=time-based+sliding+window)
 
 - Overestimate = ( (actual of non-zero pick-up) - predict ) >= 0  
 - Underestimate = ( (actual of non-zero pick-up) - predict ) <= 0 
@@ -26,7 +26,7 @@ evaluate predictive models by
 - preprocess by [min-max normalization](https://towardsdatascience.com/everything-you-need-to-know-about-min-max-normalization-in-python-b79592732b79)
 
 ## Evaluate model
-evaluate predictive models by [10-fold cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
+evaluate predictive models with [10-fold cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
 
 - Average Distance Days of the week
 
