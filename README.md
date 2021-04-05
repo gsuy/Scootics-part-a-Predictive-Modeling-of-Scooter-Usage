@@ -16,7 +16,7 @@ Traffic jams in the city, as a result, many people in the city are choosing publ
 
 - model 2
     ![image](img/model_pick-up_2.png)
-    
+
 - model 3
     ![image](img/model_pick-up_3.png)
 
@@ -28,9 +28,7 @@ evaluate predictive models with [time-based sliding window](https://www.google.c
 - Zero accuracy = ( (predict zero pick-up) / (actual of zero pick-up) )*100
 
    ![image](img/evaluate.png)
-
-
-
+<br><br><br>
 ## Predict trip destinations
 - preprocess by [min-max normalization](https://towardsdatascience.com/everything-you-need-to-know-about-min-max-normalization-in-python-b79592732b79)
 
