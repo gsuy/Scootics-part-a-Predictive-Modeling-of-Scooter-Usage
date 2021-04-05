@@ -19,7 +19,7 @@ Traffic jams in the city, as a result, many people in the city are choosing publ
 - Overestimate = ( (actual of non-zero pick-up) - predict ) >= 0  
 - Underestimate = ( (actual of non-zero pick-up) - predict ) <= 0 
 - Zero accuracy = ( (predict zero pick-up) / (actual of zero pick-up) )*100
-   ![image](img/zscore.png)
+   ![image](img/evaluate.png)
 
 
 
