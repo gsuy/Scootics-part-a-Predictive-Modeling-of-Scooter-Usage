@@ -48,3 +48,7 @@ evaluate predictive models with [10-fold cross-validation](https://en.wikipedia.
 - Average Distance hours of the Day
 
 ![image](img/evaluate-hour.png)
+
+## Team
+- [gsuy](https://github.com/gsuy)
+- [AoFNontawat](https://github.com/AoFNontawat)
